@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "kuka-food-front",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
